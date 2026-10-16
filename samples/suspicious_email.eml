@@ -1,0 +1,14 @@
+From: Account Security <security@example.net>
+To: employee@example.org
+Subject: URGENT: Your account will be suspended
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Urgent action required!
+
+Your account will be suspended unless you act immediately.
+Confirm your password using this link:
+http://example.com/verify
+
+Thank you,
+Account Security
